@@ -2,6 +2,6 @@
 
 ## Hi, my name is Rami 👋
 
-✨ **AI** enthusiast, deeply passionate about **Reinforcement Learning** 🤖
-🧠 Solving challenging problems with **PyTorch & JAX**
+✨ **AI** enthusiast, deeply passionate about **Reinforcement Learning** 🤖  
+🧠 Solving challenging problems with **PyTorch & JAX**  
 💻 **Languages:** Python, Java, Kotlin, C/C++
