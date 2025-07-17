@@ -5,3 +5,4 @@
 ✨ **AI** enthusiast, deeply passionate about **Reinforcement Learning** 🤖  
 🧠 Solving challenging problems with **PyTorch & JAX**  
 💻 **Languages:** Python, Java, Kotlin, C/C++
+✍️ Sharing thoughts on exciting topics on my blog: [ramiwahed.dev](ramiwahed.dev)
