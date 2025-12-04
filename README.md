@@ -6,4 +6,4 @@ I'm currently a Master's student in Computer Science at the University of Bremen
  
 🧠 Solving challenging problems with **PyTorch & JAX**  
 💻 **Languages:** Python, Java, Kotlin, C/C++  
-✍️ Sharing thoughts on exciting topics on my blog: [ramiwahed.dev](https://ramiwahed.dev)
+✍️ Sharing thoughts on exciting topics on my blog: [ramiwahed.dev](https://ramiwahed.de)
