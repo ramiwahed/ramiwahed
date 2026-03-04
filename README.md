@@ -5,5 +5,4 @@
 I'm currently a Master's student in Computer Science at the University of Bremen. My primary focus is AI, with a particular interest in Reinforcement Learning.
  
 🧠 Solving challenging problems with **PyTorch & JAX**  
-💻 **Languages:** Python, Java, Kotlin, C/C++  
-✍️ Sharing thoughts on exciting topics on my blog: [ramiwahed.dev](https://ramiwahed.de)
+💻 **Languages:** Python, Java, Kotlin, C/C++
